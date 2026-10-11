@@ -1,0 +1,11 @@
+﻿tilt,config,mean,count
+20,adaptive_noperspective,16.491,4
+20,adaptive_persp,13.809,4
+20,otsu_gray_persp,13.797,4
+20,otsu_noperspective,15.764,4
+20,otsu_persp,13.797,4
+сверху,adaptive_noperspective,14.685,24
+сверху,adaptive_persp,10.993,26
+сверху,otsu_gray_persp,12.3,20
+сверху,otsu_noperspective,12.961,26
+сверху,otsu_persp,9.519,26

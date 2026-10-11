@@ -1,0 +1,51 @@
+﻿file,status,message,length_mm,width_mm,scale_px_per_mm,channel,time_s,marker_mm
+photo_01.jpg,ok,,61.991,39.354,10.011,gray,6.183,48.0
+photo_02.jpg,ok,,61.978,39.28,9.649,gray,1.656,48.0
+photo_03.jpg,ok,,106.659,10.232,9.979,gray,1.562,48.0
+photo_04.jpg,ok,,105.599,13.289,9.937,colordist,1.642,48.0
+photo_05.jpg,ok,,81.699,23.886,8.656,gray,24.407,55.0
+photo_06.jpg,marker_not_found,ArUco-маркер не найден или слишком мал,,,,,34.318,52.0
+photo_07.jpg,ok,,132.399,89.012,8.796,gray,1.535,55.0
+photo_08.jpg,ok,,132.48,89.848,8.692,gray,1.753,55.0
+photo_09.jpg,ok,,64.465,20.596,8.689,gray,1.641,55.0
+photo_10.jpg,ok,,65.961,28.57,8.724,gray,1.762,55.0
+photo_11.jpg,ok,,65.095,41.191,11.06,gray,12.417,50.0
+photo_12.jpg,ok,,112.269,11.187,11.122,gray,1.437,50.0
+photo_13.jpg,segmentation_failed,объект не выделен: слабый контраст с фоном либо объект обрезан границей кадра,,,9.151,,2.142,50.0
+photo_14.jpg,ok,,134.228,90.261,8.692,gray,21.317,55.0
+photo_15.jpg,ok,,55.934,21.804,8.729,gray,1.937,55.0
+photo_16.jpg,ok,,70.584,44.329,8.723,gray,1.737,55.0
+photo_17.jpg,ok,,116.573,10.198,8.719,saturation,1.858,55.0
+photo_18.jpg,ok,,59.741,34.629,7.566,gray,1.615,55.0
+photo_19.jpg,ok,,122.885,86.408,8.209,saturation,1.687,55.0
+photo_20.jpg,ok,,72.8,30.002,8.215,saturation,1.964,55.0
+photo_21.jpg,ok,,70.3,44.367,8.722,colordist,1.744,55.0
+photo_22.jpg,ok,,116.892,12.905,8.725,saturation,1.829,55.0
+photo_23.jpg,ok,,153.326,22.829,8.235,gray,2.202,55.0
+photo_24.jpg,ok,,110.298,76.723,8.672,colordist,1.653,55.0
+photo_25.jpg,ok,,64.451,25.919,8.679,gray,1.577,55.0
+photo_26.jpg,ok,,70.634,44.679,8.723,colordist,1.948,55.0
+photo_27.jpg,ok,,88.496,4.375,8.727,saturation,2.055,55.0
+photo_28.jpg,ok,,164.304,25.871,7.095,saturation,1.379,55.0
+photo_29.jpg,ok,,122.598,71.506,8.729,colordist,1.891,55.0
+photo_30.jpg,ok,,56.984,22.128,8.729,colordist,1.613,55.0
+photo_31.jpg,ok,,71.657,46.024,8.634,gray,1.853,55.0
+photo_32.jpg,ok,,121.588,14.139,8.66,gray,2.132,55.0
+photo_33.jpg,ok,,80.624,18.646,8.958,gray,2.155,55.0
+photo_34.jpg,ok,,96.611,75.409,8.685,gray,2.021,55.0
+photo_35.jpg,ok,,56.731,25.478,8.686,gray,2.195,55.0
+photo_36.jpg,marker_not_found,ArUco-маркер не найден или слишком мал,,,,,27.147,55.0
+photo_37.jpg,marker_not_found,ArUco-маркер не найден или слишком мал,,,,,30.383,55.0
+photo_38.jpg,marker_not_found,ArUco-маркер не найден или слишком мал,,,,,30.506,55.0
+photo_39.jpg,marker_not_found,ArUco-маркер не найден или слишком мал,,,,,28.459,55.0
+photo_40.jpg,marker_not_found,ArUco-маркер не найден или слишком мал,,,,,28.161,55.0
+photo_41.jpg,ok,,72.526,46.379,8.603,gray,1.917,55.0
+photo_42.jpg,ok,,139.454,19.584,8.6,gray,1.971,55.0
+photo_43.jpg,marker_not_found,ArUco-маркер не найден или слишком мал,,,,,32.85,55.0
+photo_44.jpg,marker_not_found,ArUco-маркер не найден или слишком мал,,,,,37.453,52.0
+photo_45.jpg,marker_not_found,ArUco-маркер не найден или слишком мал,,,,,36.126,55.0
+photo_46.jpg,ok,,71.854,46.066,8.648,gray,1.876,55.0
+photo_47.jpg,ok,,136.375,19.631,8.709,gray,1.99,55.0
+photo_48.jpg,ok,,156.877,27.212,8.238,gray,2.293,55.0
+photo_49.jpg,ok,,95.117,70.765,8.215,gray,2.043,55.0
+photo_50.jpg,ok,,57.328,22.394,8.172,gray,2.104,55.0

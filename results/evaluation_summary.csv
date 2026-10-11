@@ -1,0 +1,6 @@
+﻿config,photos,success_rate_pct,mae_mm,mae_common_mm,common_photos,mae_length_mm,mae_width_mm,rel_err_pct,max_abs_err_mm,time_s_mean,correct_rejection_pct
+otsu_persp,19,78.947,10.089,9.995,12,12.241,7.937,17.219,34.883,9.255,0.0
+otsu_gray_persp,19,63.158,12.55,12.55,12,17.241,7.858,18.66,47.902,8.887,0.0
+otsu_noperspective,19,78.947,13.335,9.471,12,17.094,9.576,16.925,123.803,9.179,0.0
+adaptive_persp,19,78.947,11.368,12.696,12,14.099,8.637,15.582,61.8,10.03,0.0
+adaptive_noperspective,19,73.684,14.943,16.255,12,16.995,12.892,18.785,113.426,9.366,0.0

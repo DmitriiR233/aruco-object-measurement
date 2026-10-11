@@ -1,0 +1,15 @@
+﻿lighting,config,mean,count
+слабое,adaptive_noperspective,2.769,2
+слабое,adaptive_persp,0.556,2
+слабое,otsu_gray_persp,2.245,2
+слабое,otsu_noperspective,31.992,4
+слабое,otsu_persp,2.245,2
+тени,adaptive_noperspective,0.795,2
+тени,adaptive_persp,3.077,4
+тени,otsu_noperspective,9.588,2
+тени,otsu_persp,9.627,4
+хорошее,adaptive_noperspective,17.137,24
+хорошее,adaptive_persp,13.651,24
+хорошее,otsu_gray_persp,13.486,22
+хорошее,otsu_noperspective,10.538,24
+хорошее,otsu_persp,10.82,24

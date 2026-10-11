@@ -1,0 +1,201 @@
+﻿file,object,length_mm,width_mm,marker_mm,lighting,background,tilt,split,expect_fail,config,status,message,channel,ok,time_s,dimension,pred_mm,true_mm,abs_err_mm,rel_err_pct
+photo_02.jpg,карта,85.6,54.0,48,хорошее,светлый,сверху,final,0,otsu_persp,ok,,gray,True,5.34,length,61.978,85.6,23.622,27.596
+photo_02.jpg,карта,85.6,54.0,48,хорошее,светлый,сверху,final,0,otsu_persp,ok,,gray,True,5.34,width,39.28,54.0,14.72,27.259
+photo_04.jpg,ручка,125.0,11.0,48,хорошее,светлый,сверху,final,0,otsu_persp,ok,,colordist,True,1.621,length,105.599,125.0,19.401,15.521
+photo_04.jpg,ручка,125.0,11.0,48,хорошее,светлый,сверху,final,0,otsu_persp,ok,,colordist,True,1.621,width,13.289,11.0,2.289,20.805
+photo_08.jpg,картон,130.0,90.0,55,хорошее,светлый,сверху,final,0,otsu_persp,ok,,gray,True,24.396,length,132.48,130.0,2.48,1.908
+photo_08.jpg,картон,130.0,90.0,55,хорошее,светлый,сверху,final,0,otsu_persp,ok,,gray,True,24.396,width,89.848,90.0,0.152,0.168
+photo_10.jpg,флешка,55.0,20.0,55,хорошее,светлый,сверху,final,0,otsu_persp,ok,,gray,True,1.778,length,65.961,55.0,10.961,19.93
+photo_10.jpg,флешка,55.0,20.0,55,хорошее,светлый,сверху,final,0,otsu_persp,ok,,gray,True,1.778,width,28.57,20.0,8.57,42.849
+photo_13.jpg,линейка,152.0,15.0,50,слабое,светлый,сверху,final,0,otsu_persp,segmentation_failed,объект не выделен: слабый контраст с фоном либо объект обрезан границей кадра,,False,12.628,length,,152.0,,
+photo_13.jpg,линейка,152.0,15.0,50,слабое,светлый,сверху,final,0,otsu_persp,segmentation_failed,объект не выделен: слабый контраст с фоном либо объект обрезан границей кадра,,False,12.628,width,,15.0,,
+photo_14.jpg,картон,130.0,90.0,55,слабое,светлый,сверху,final,0,otsu_persp,ok,,gray,True,21.375,length,134.228,130.0,4.228,3.253
+photo_14.jpg,картон,130.0,90.0,55,слабое,светлый,сверху,final,0,otsu_persp,ok,,gray,True,21.375,width,90.261,90.0,0.261,0.29
+photo_19.jpg,картон,130.0,90.0,55,тени,светлый,сверху,final,0,otsu_persp,ok,,saturation,True,1.723,length,122.885,130.0,7.115,5.473
+photo_19.jpg,картон,130.0,90.0,55,тени,светлый,сверху,final,0,otsu_persp,ok,,saturation,True,1.723,width,86.408,90.0,3.592,3.991
+photo_20.jpg,флешка,55.0,20.0,55,тени,светлый,сверху,final,0,otsu_persp,ok,,saturation,True,1.941,length,72.8,55.0,17.8,32.364
+photo_20.jpg,флешка,55.0,20.0,55,тени,светлый,сверху,final,0,otsu_persp,ok,,saturation,True,1.941,width,30.002,20.0,10.002,50.01
+photo_23.jpg,линейка,152.0,15.0,55,хорошее,тёмный,сверху,final,0,otsu_persp,ok,,gray,True,2.176,length,153.326,152.0,1.326,0.872
+photo_23.jpg,линейка,152.0,15.0,55,хорошее,тёмный,сверху,final,0,otsu_persp,ok,,gray,True,2.176,width,22.829,15.0,7.829,52.192
+photo_26.jpg,карта,85.6,54.0,55,хорошее,цветной,сверху,final,0,otsu_persp,ok,,colordist,True,1.932,length,70.634,85.6,14.966,17.484
+photo_26.jpg,карта,85.6,54.0,55,хорошее,цветной,сверху,final,0,otsu_persp,ok,,colordist,True,1.932,width,44.679,54.0,9.321,17.262
+photo_29.jpg,картон,130.0,90.0,55,хорошее,текстурированный,сверху,final,0,otsu_persp,ok,,colordist,True,1.866,length,122.598,130.0,7.402,5.694
+photo_29.jpg,картон,130.0,90.0,55,хорошее,текстурированный,сверху,final,0,otsu_persp,ok,,colordist,True,1.866,width,71.506,90.0,18.494,20.549
+photo_30.jpg,флешка,55.0,20.0,55,хорошее,текстурированный,сверху,final,0,otsu_persp,ok,,colordist,True,1.651,length,56.984,55.0,1.984,3.608
+photo_30.jpg,флешка,55.0,20.0,55,хорошее,текстурированный,сверху,final,0,otsu_persp,ok,,colordist,True,1.651,width,22.128,20.0,2.128,10.638
+photo_34.jpg,картон,130.0,90.0,55,хорошее,светлый,20,final,0,otsu_persp,ok,,gray,True,1.976,length,96.611,130.0,33.389,25.684
+photo_34.jpg,картон,130.0,90.0,55,хорошее,светлый,20,final,0,otsu_persp,ok,,gray,True,1.976,width,75.409,90.0,14.591,16.212
+photo_35.jpg,флешка,55.0,20.0,55,хорошее,светлый,20,final,0,otsu_persp,ok,,gray,True,2.157,length,56.731,55.0,1.731,3.146
+photo_35.jpg,флешка,55.0,20.0,55,хорошее,светлый,20,final,0,otsu_persp,ok,,gray,True,2.157,width,25.478,20.0,5.478,27.391
+photo_39.jpg,картон,130.0,90.0,55,хорошее,светлый,40,final,0,otsu_persp,marker_not_found,ArUco-маркер не найден или слишком мал,,False,28.469,length,,130.0,,
+photo_39.jpg,картон,130.0,90.0,55,хорошее,светлый,40,final,0,otsu_persp,marker_not_found,ArUco-маркер не найден или слишком мал,,False,28.469,width,,90.0,,
+photo_40.jpg,флешка,55.0,20.0,55,хорошее,светлый,40,final,0,otsu_persp,marker_not_found,ArUco-маркер не найден или слишком мал,,False,28.019,length,,55.0,,
+photo_40.jpg,флешка,55.0,20.0,55,хорошее,светлый,40,final,0,otsu_persp,marker_not_found,ArUco-маркер не найден или слишком мал,,False,28.019,width,,20.0,,
+photo_43.jpg,линейка,152.0,15.0,55,блики,светлый,сверху,final,0,otsu_persp,marker_not_found,ArUco-маркер не найден или слишком мал,,False,32.718,length,,152.0,,
+photo_43.jpg,линейка,152.0,15.0,55,блики,светлый,сверху,final,0,otsu_persp,marker_not_found,ArUco-маркер не найден или слишком мал,,False,32.718,width,,15.0,,
+photo_46.jpg,карта,85.6,54.0,55,хорошее,светлый,сверху,final,1,otsu_persp,ok,,gray,True,1.826,length,71.854,85.6,13.746,16.058
+photo_46.jpg,карта,85.6,54.0,55,хорошее,светлый,сверху,final,1,otsu_persp,ok,,gray,True,1.826,width,46.066,54.0,7.934,14.692
+photo_49.jpg,картон,130.0,90.0,55,хорошее,светлый,сверху,final,0,otsu_persp,ok,,gray,True,2.009,length,95.117,130.0,34.883,26.833
+photo_49.jpg,картон,130.0,90.0,55,хорошее,светлый,сверху,final,0,otsu_persp,ok,,gray,True,2.009,width,70.765,90.0,19.235,21.372
+photo_50.jpg,флешка,55.0,20.0,55,хорошее,светлый,сверху,final,0,otsu_persp,ok,,gray,True,2.06,length,57.328,55.0,2.328,4.233
+photo_50.jpg,флешка,55.0,20.0,55,хорошее,светлый,сверху,final,0,otsu_persp,ok,,gray,True,2.06,width,22.394,20.0,2.394,11.969
+photo_02.jpg,карта,85.6,54.0,48,хорошее,светлый,сверху,final,0,otsu_gray_persp,ok,,gray,True,10.572,length,61.978,85.6,23.622,27.596
+photo_02.jpg,карта,85.6,54.0,48,хорошее,светлый,сверху,final,0,otsu_gray_persp,ok,,gray,True,10.572,width,39.28,54.0,14.72,27.259
+photo_04.jpg,ручка,125.0,11.0,48,хорошее,светлый,сверху,final,0,otsu_gray_persp,ok,,gray,True,0.983,length,103.487,125.0,21.513,17.21
+photo_04.jpg,ручка,125.0,11.0,48,хорошее,светлый,сверху,final,0,otsu_gray_persp,ok,,gray,True,0.983,width,11.526,11.0,0.526,4.782
+photo_08.jpg,картон,130.0,90.0,55,хорошее,светлый,сверху,final,0,otsu_gray_persp,ok,,gray,True,23.499,length,132.48,130.0,2.48,1.908
+photo_08.jpg,картон,130.0,90.0,55,хорошее,светлый,сверху,final,0,otsu_gray_persp,ok,,gray,True,23.499,width,89.848,90.0,0.152,0.168
+photo_10.jpg,флешка,55.0,20.0,55,хорошее,светлый,сверху,final,0,otsu_gray_persp,ok,,gray,True,1.16,length,65.961,55.0,10.961,19.93
+photo_10.jpg,флешка,55.0,20.0,55,хорошее,светлый,сверху,final,0,otsu_gray_persp,ok,,gray,True,1.16,width,28.57,20.0,8.57,42.849
+photo_13.jpg,линейка,152.0,15.0,50,слабое,светлый,сверху,final,0,otsu_gray_persp,segmentation_failed,объект не выделен: слабый контраст с фоном либо объект обрезан границей кадра,,False,11.546,length,,152.0,,
+photo_13.jpg,линейка,152.0,15.0,50,слабое,светлый,сверху,final,0,otsu_gray_persp,segmentation_failed,объект не выделен: слабый контраст с фоном либо объект обрезан границей кадра,,False,11.546,width,,15.0,,
+photo_14.jpg,картон,130.0,90.0,55,слабое,светлый,сверху,final,0,otsu_gray_persp,ok,,gray,True,20.617,length,134.228,130.0,4.228,3.253
+photo_14.jpg,картон,130.0,90.0,55,слабое,светлый,сверху,final,0,otsu_gray_persp,ok,,gray,True,20.617,width,90.261,90.0,0.261,0.29
+photo_19.jpg,картон,130.0,90.0,55,тени,светлый,сверху,final,0,otsu_gray_persp,segmentation_failed,объект не выделен: слабый контраст с фоном либо объект обрезан границей кадра,,False,1.041,length,,130.0,,
+photo_19.jpg,картон,130.0,90.0,55,тени,светлый,сверху,final,0,otsu_gray_persp,segmentation_failed,объект не выделен: слабый контраст с фоном либо объект обрезан границей кадра,,False,1.041,width,,90.0,,
+photo_20.jpg,флешка,55.0,20.0,55,тени,светлый,сверху,final,0,otsu_gray_persp,segmentation_failed,объект не выделен: слабый контраст с фоном либо объект обрезан границей кадра,,False,1.047,length,,55.0,,
+photo_20.jpg,флешка,55.0,20.0,55,тени,светлый,сверху,final,0,otsu_gray_persp,segmentation_failed,объект не выделен: слабый контраст с фоном либо объект обрезан границей кадра,,False,1.047,width,,20.0,,
+photo_23.jpg,линейка,152.0,15.0,55,хорошее,тёмный,сверху,final,0,otsu_gray_persp,ok,,gray,True,1.119,length,153.326,152.0,1.326,0.872
+photo_23.jpg,линейка,152.0,15.0,55,хорошее,тёмный,сверху,final,0,otsu_gray_persp,ok,,gray,True,1.119,width,22.829,15.0,7.829,52.192
+photo_26.jpg,карта,85.6,54.0,55,хорошее,цветной,сверху,final,0,otsu_gray_persp,segmentation_failed,объект не выделен: слабый контраст с фоном либо объект обрезан границей кадра,,False,1.196,length,,85.6,,
+photo_26.jpg,карта,85.6,54.0,55,хорошее,цветной,сверху,final,0,otsu_gray_persp,segmentation_failed,объект не выделен: слабый контраст с фоном либо объект обрезан границей кадра,,False,1.196,width,,54.0,,
+photo_29.jpg,картон,130.0,90.0,55,хорошее,текстурированный,сверху,final,0,otsu_gray_persp,ok,,gray,True,0.946,length,82.098,130.0,47.902,36.848
+photo_29.jpg,картон,130.0,90.0,55,хорошее,текстурированный,сверху,final,0,otsu_gray_persp,ok,,gray,True,0.946,width,72.556,90.0,17.444,19.382
+photo_30.jpg,флешка,55.0,20.0,55,хорошее,текстурированный,сверху,final,0,otsu_gray_persp,ok,,gray,True,0.923,length,32.477,55.0,22.523,40.951
+photo_30.jpg,флешка,55.0,20.0,55,хорошее,текстурированный,сверху,final,0,otsu_gray_persp,ok,,gray,True,0.923,width,16.897,20.0,3.103,15.517
+photo_34.jpg,картон,130.0,90.0,55,хорошее,светлый,20,final,0,otsu_gray_persp,ok,,gray,True,1.165,length,96.611,130.0,33.389,25.684
+photo_34.jpg,картон,130.0,90.0,55,хорошее,светлый,20,final,0,otsu_gray_persp,ok,,gray,True,1.165,width,75.409,90.0,14.591,16.212
+photo_35.jpg,флешка,55.0,20.0,55,хорошее,светлый,20,final,0,otsu_gray_persp,ok,,gray,True,1.227,length,56.731,55.0,1.731,3.146
+photo_35.jpg,флешка,55.0,20.0,55,хорошее,светлый,20,final,0,otsu_gray_persp,ok,,gray,True,1.227,width,25.478,20.0,5.478,27.391
+photo_39.jpg,картон,130.0,90.0,55,хорошее,светлый,40,final,0,otsu_gray_persp,marker_not_found,ArUco-маркер не найден или слишком мал,,False,28.512,length,,130.0,,
+photo_39.jpg,картон,130.0,90.0,55,хорошее,светлый,40,final,0,otsu_gray_persp,marker_not_found,ArUco-маркер не найден или слишком мал,,False,28.512,width,,90.0,,
+photo_40.jpg,флешка,55.0,20.0,55,хорошее,светлый,40,final,0,otsu_gray_persp,marker_not_found,ArUco-маркер не найден или слишком мал,,False,28.134,length,,55.0,,
+photo_40.jpg,флешка,55.0,20.0,55,хорошее,светлый,40,final,0,otsu_gray_persp,marker_not_found,ArUco-маркер не найден или слишком мал,,False,28.134,width,,20.0,,
+photo_43.jpg,линейка,152.0,15.0,55,блики,светлый,сверху,final,0,otsu_gray_persp,marker_not_found,ArUco-маркер не найден или слишком мал,,False,32.832,length,,152.0,,
+photo_43.jpg,линейка,152.0,15.0,55,блики,светлый,сверху,final,0,otsu_gray_persp,marker_not_found,ArUco-маркер не найден или слишком мал,,False,32.832,width,,15.0,,
+photo_46.jpg,карта,85.6,54.0,55,хорошее,светлый,сверху,final,1,otsu_gray_persp,ok,,gray,True,1.097,length,71.854,85.6,13.746,16.058
+photo_46.jpg,карта,85.6,54.0,55,хорошее,светлый,сверху,final,1,otsu_gray_persp,ok,,gray,True,1.097,width,46.066,54.0,7.934,14.692
+photo_49.jpg,картон,130.0,90.0,55,хорошее,светлый,сверху,final,0,otsu_gray_persp,ok,,gray,True,1.147,length,95.117,130.0,34.883,26.833
+photo_49.jpg,картон,130.0,90.0,55,хорошее,светлый,сверху,final,0,otsu_gray_persp,ok,,gray,True,1.147,width,70.765,90.0,19.235,21.372
+photo_50.jpg,флешка,55.0,20.0,55,хорошее,светлый,сверху,final,0,otsu_gray_persp,ok,,gray,True,1.191,length,57.328,55.0,2.328,4.233
+photo_50.jpg,флешка,55.0,20.0,55,хорошее,светлый,сверху,final,0,otsu_gray_persp,ok,,gray,True,1.191,width,22.394,20.0,2.394,11.969
+photo_02.jpg,карта,85.6,54.0,48,хорошее,светлый,сверху,final,0,otsu_noperspective,ok,,gray,True,10.915,length,65.928,85.6,19.672,22.982
+photo_02.jpg,карта,85.6,54.0,48,хорошее,светлый,сверху,final,0,otsu_noperspective,ok,,gray,True,10.915,width,38.503,54.0,15.497,28.699
+photo_04.jpg,ручка,125.0,11.0,48,хорошее,светлый,сверху,final,0,otsu_noperspective,ok,,colordist,True,1.408,length,108.577,125.0,16.423,13.138
+photo_04.jpg,ручка,125.0,11.0,48,хорошее,светлый,сверху,final,0,otsu_noperspective,ok,,colordist,True,1.408,width,12.208,11.0,1.208,10.981
+photo_08.jpg,картон,130.0,90.0,55,хорошее,светлый,сверху,final,0,otsu_noperspective,ok,,gray,True,23.935,length,129.825,130.0,0.175,0.135
+photo_08.jpg,картон,130.0,90.0,55,хорошее,светлый,сверху,final,0,otsu_noperspective,ok,,gray,True,23.935,width,89.919,90.0,0.081,0.09
+photo_10.jpg,флешка,55.0,20.0,55,хорошее,светлый,сверху,final,0,otsu_noperspective,ok,,gray,True,1.511,length,60.077,55.0,5.077,9.231
+photo_10.jpg,флешка,55.0,20.0,55,хорошее,светлый,сверху,final,0,otsu_noperspective,ok,,gray,True,1.511,width,24.169,20.0,4.169,20.845
+photo_13.jpg,линейка,152.0,15.0,50,слабое,светлый,сверху,final,0,otsu_noperspective,ok,,colordist,True,12.086,length,28.197,152.0,123.803,81.449
+photo_13.jpg,линейка,152.0,15.0,50,слабое,светлый,сверху,final,0,otsu_noperspective,ok,,colordist,True,12.086,width,12.11,15.0,2.89,19.269
+photo_14.jpg,картон,130.0,90.0,55,слабое,светлый,сверху,final,0,otsu_noperspective,ok,,gray,True,20.951,length,130.972,130.0,0.972,0.748
+photo_14.jpg,картон,130.0,90.0,55,слабое,светлый,сверху,final,0,otsu_noperspective,ok,,gray,True,20.951,width,89.699,90.0,0.301,0.335
+photo_19.jpg,картон,130.0,90.0,55,тени,светлый,сверху,final,0,otsu_noperspective,ok,,saturation,True,1.397,length,117.254,130.0,12.746,9.804
+photo_19.jpg,картон,130.0,90.0,55,тени,светлый,сверху,final,0,otsu_noperspective,ok,,saturation,True,1.397,width,83.57,90.0,6.43,7.145
+photo_20.jpg,флешка,55.0,20.0,55,тени,светлый,сверху,final,0,otsu_noperspective,segmentation_failed,слабый контраст объекта с фоном (ΔE = 2.5 < 5.0),,False,1.479,length,,55.0,,
+photo_20.jpg,флешка,55.0,20.0,55,тени,светлый,сверху,final,0,otsu_noperspective,segmentation_failed,слабый контраст объекта с фоном (ΔE = 2.5 < 5.0),,False,1.479,width,,20.0,,
+photo_23.jpg,линейка,152.0,15.0,55,хорошее,тёмный,сверху,final,0,otsu_noperspective,ok,,gray,True,1.527,length,149.323,152.0,2.677,1.761
+photo_23.jpg,линейка,152.0,15.0,55,хорошее,тёмный,сверху,final,0,otsu_noperspective,ok,,gray,True,1.527,width,22.411,15.0,7.411,49.409
+photo_26.jpg,карта,85.6,54.0,55,хорошее,цветной,сверху,final,0,otsu_noperspective,ok,,colordist,True,1.578,length,69.046,85.6,16.554,19.339
+photo_26.jpg,карта,85.6,54.0,55,хорошее,цветной,сверху,final,0,otsu_noperspective,ok,,colordist,True,1.578,width,43.686,54.0,10.314,19.101
+photo_29.jpg,картон,130.0,90.0,55,хорошее,текстурированный,сверху,final,0,otsu_noperspective,ok,,gray,True,1.383,length,128.767,130.0,1.233,0.948
+photo_29.jpg,картон,130.0,90.0,55,хорошее,текстурированный,сверху,final,0,otsu_noperspective,ok,,gray,True,1.383,width,119.253,90.0,29.253,32.503
+photo_30.jpg,флешка,55.0,20.0,55,хорошее,текстурированный,сверху,final,0,otsu_noperspective,ok,,colordist,True,1.261,length,54.984,55.0,0.016,0.03
+photo_30.jpg,флешка,55.0,20.0,55,хорошее,текстурированный,сверху,final,0,otsu_noperspective,ok,,colordist,True,1.261,width,22.865,20.0,2.865,14.326
+photo_34.jpg,картон,130.0,90.0,55,хорошее,светлый,20,final,0,otsu_noperspective,ok,,gray,True,1.454,length,105.637,130.0,24.363,18.741
+photo_34.jpg,картон,130.0,90.0,55,хорошее,светлый,20,final,0,otsu_noperspective,ok,,gray,True,1.454,width,61.884,90.0,28.116,31.24
+photo_35.jpg,флешка,55.0,20.0,55,хорошее,светлый,20,final,0,otsu_noperspective,ok,,gray,True,1.444,length,49.822,55.0,5.178,9.415
+photo_35.jpg,флешка,55.0,20.0,55,хорошее,светлый,20,final,0,otsu_noperspective,ok,,gray,True,1.444,width,25.399,20.0,5.399,26.997
+photo_39.jpg,картон,130.0,90.0,55,хорошее,светлый,40,final,0,otsu_noperspective,marker_not_found,ArUco-маркер не найден или слишком мал,,False,28.382,length,,130.0,,
+photo_39.jpg,картон,130.0,90.0,55,хорошее,светлый,40,final,0,otsu_noperspective,marker_not_found,ArUco-маркер не найден или слишком мал,,False,28.382,width,,90.0,,
+photo_40.jpg,флешка,55.0,20.0,55,хорошее,светлый,40,final,0,otsu_noperspective,marker_not_found,ArUco-маркер не найден или слишком мал,,False,28.137,length,,55.0,,
+photo_40.jpg,флешка,55.0,20.0,55,хорошее,светлый,40,final,0,otsu_noperspective,marker_not_found,ArUco-маркер не найден или слишком мал,,False,28.137,width,,20.0,,
+photo_43.jpg,линейка,152.0,15.0,55,блики,светлый,сверху,final,0,otsu_noperspective,marker_not_found,ArUco-маркер не найден или слишком мал,,False,32.67,length,,152.0,,
+photo_43.jpg,линейка,152.0,15.0,55,блики,светлый,сверху,final,0,otsu_noperspective,marker_not_found,ArUco-маркер не найден или слишком мал,,False,32.67,width,,15.0,,
+photo_46.jpg,карта,85.6,54.0,55,хорошее,светлый,сверху,final,1,otsu_noperspective,ok,,gray,True,1.399,length,73.36,85.6,12.24,14.299
+photo_46.jpg,карта,85.6,54.0,55,хорошее,светлый,сверху,final,1,otsu_noperspective,ok,,gray,True,1.399,width,42.409,54.0,11.591,21.465
+photo_49.jpg,картон,130.0,90.0,55,хорошее,светлый,сверху,final,0,otsu_noperspective,ok,,gray,True,1.442,length,105.341,130.0,24.659,18.968
+photo_49.jpg,картон,130.0,90.0,55,хорошее,светлый,сверху,final,0,otsu_noperspective,ok,,gray,True,1.442,width,60.787,90.0,29.213,32.459
+photo_50.jpg,флешка,55.0,20.0,55,хорошее,светлый,сверху,final,0,otsu_noperspective,ok,,gray,True,1.443,length,57.859,55.0,2.859,5.199
+photo_50.jpg,флешка,55.0,20.0,55,хорошее,светлый,сверху,final,0,otsu_noperspective,ok,,gray,True,1.443,width,20.491,20.0,0.491,2.457
+photo_02.jpg,карта,85.6,54.0,48,хорошее,светлый,сверху,final,0,adaptive_persp,ok,,gray,True,11.169,length,62.057,85.6,23.543,27.504
+photo_02.jpg,карта,85.6,54.0,48,хорошее,светлый,сверху,final,0,adaptive_persp,ok,,gray,True,11.169,width,39.427,54.0,14.573,26.987
+photo_04.jpg,ручка,125.0,11.0,48,хорошее,светлый,сверху,final,0,adaptive_persp,ok,,colordist,True,1.923,length,107.257,125.0,17.743,14.195
+photo_04.jpg,ручка,125.0,11.0,48,хорошее,светлый,сверху,final,0,adaptive_persp,ok,,colordist,True,1.923,width,12.958,11.0,1.958,17.796
+photo_08.jpg,картон,130.0,90.0,55,хорошее,светлый,сверху,final,0,adaptive_persp,ok,,colordist,True,24.398,length,131.977,130.0,1.977,1.521
+photo_08.jpg,картон,130.0,90.0,55,хорошее,светлый,сверху,final,0,adaptive_persp,ok,,colordist,True,24.398,width,89.535,90.0,0.465,0.517
+photo_10.jpg,флешка,55.0,20.0,55,хорошее,светлый,сверху,final,0,adaptive_persp,ok,,gray,True,1.996,length,61.396,55.0,6.396,11.629
+photo_10.jpg,флешка,55.0,20.0,55,хорошее,светлый,сверху,final,0,adaptive_persp,ok,,gray,True,1.996,width,22.842,20.0,2.842,14.211
+photo_13.jpg,линейка,152.0,15.0,50,слабое,светлый,сверху,final,0,adaptive_persp,segmentation_failed,слабый контраст объекта с фоном (ΔE = 3.7 < 5.0),,False,13.262,length,,152.0,,
+photo_13.jpg,линейка,152.0,15.0,50,слабое,светлый,сверху,final,0,adaptive_persp,segmentation_failed,слабый контраст объекта с фоном (ΔE = 3.7 < 5.0),,False,13.262,width,,15.0,,
+photo_14.jpg,картон,130.0,90.0,55,слабое,светлый,сверху,final,0,adaptive_persp,ok,,colordist,True,22.008,length,130.437,130.0,0.437,0.336
+photo_14.jpg,картон,130.0,90.0,55,слабое,светлый,сверху,final,0,adaptive_persp,ok,,colordist,True,22.008,width,89.325,90.0,0.675,0.75
+photo_19.jpg,картон,130.0,90.0,55,тени,светлый,сверху,final,0,adaptive_persp,ok,,gray,True,2.588,length,124.215,130.0,5.785,4.45
+photo_19.jpg,картон,130.0,90.0,55,тени,светлый,сверху,final,0,adaptive_persp,ok,,gray,True,2.588,width,88.669,90.0,1.331,1.479
+photo_20.jpg,флешка,55.0,20.0,55,тени,светлый,сверху,final,0,adaptive_persp,ok,,gray,True,2.123,length,58.929,55.0,3.929,7.144
+photo_20.jpg,флешка,55.0,20.0,55,тени,светлый,сверху,final,0,adaptive_persp,ok,,gray,True,2.123,width,21.263,20.0,1.263,6.316
+photo_23.jpg,линейка,152.0,15.0,55,хорошее,тёмный,сверху,final,0,adaptive_persp,ok,,gray,True,3.013,length,153.598,152.0,1.598,1.051
+photo_23.jpg,линейка,152.0,15.0,55,хорошее,тёмный,сверху,final,0,adaptive_persp,ok,,gray,True,3.013,width,23.129,15.0,8.129,54.191
+photo_26.jpg,карта,85.6,54.0,55,хорошее,цветной,сверху,final,0,adaptive_persp,ok,,colordist,True,2.433,length,70.828,85.6,14.772,17.258
+photo_26.jpg,карта,85.6,54.0,55,хорошее,цветной,сверху,final,0,adaptive_persp,ok,,colordist,True,2.433,width,44.746,54.0,9.254,17.138
+photo_29.jpg,картон,130.0,90.0,55,хорошее,текстурированный,сверху,final,0,adaptive_persp,ok,,saturation,True,2.245,length,68.2,130.0,61.8,47.538
+photo_29.jpg,картон,130.0,90.0,55,хорошее,текстурированный,сверху,final,0,adaptive_persp,ok,,saturation,True,2.245,width,43.579,90.0,46.421,51.579
+photo_30.jpg,флешка,55.0,20.0,55,хорошее,текстурированный,сверху,final,0,adaptive_persp,ok,,saturation,True,2.224,length,53.996,55.0,1.004,1.825
+photo_30.jpg,флешка,55.0,20.0,55,хорошее,текстурированный,сверху,final,0,adaptive_persp,ok,,saturation,True,2.224,width,19.095,20.0,0.905,4.526
+photo_34.jpg,картон,130.0,90.0,55,хорошее,светлый,20,final,0,adaptive_persp,ok,,gray,True,2.571,length,96.583,130.0,33.417,25.705
+photo_34.jpg,картон,130.0,90.0,55,хорошее,светлый,20,final,0,adaptive_persp,ok,,gray,True,2.571,width,75.308,90.0,14.692,16.324
+photo_35.jpg,флешка,55.0,20.0,55,хорошее,светлый,20,final,0,adaptive_persp,ok,,gray,True,3.208,length,56.654,55.0,1.654,3.008
+photo_35.jpg,флешка,55.0,20.0,55,хорошее,светлый,20,final,0,adaptive_persp,ok,,gray,True,3.208,width,25.471,20.0,5.471,27.354
+photo_39.jpg,картон,130.0,90.0,55,хорошее,светлый,40,final,0,adaptive_persp,marker_not_found,ArUco-маркер не найден или слишком мал,,False,28.686,length,,130.0,,
+photo_39.jpg,картон,130.0,90.0,55,хорошее,светлый,40,final,0,adaptive_persp,marker_not_found,ArUco-маркер не найден или слишком мал,,False,28.686,width,,90.0,,
+photo_40.jpg,флешка,55.0,20.0,55,хорошее,светлый,40,final,0,adaptive_persp,marker_not_found,ArUco-маркер не найден или слишком мал,,False,28.154,length,,55.0,,
+photo_40.jpg,флешка,55.0,20.0,55,хорошее,светлый,40,final,0,adaptive_persp,marker_not_found,ArUco-маркер не найден или слишком мал,,False,28.154,width,,20.0,,
+photo_43.jpg,линейка,152.0,15.0,55,блики,светлый,сверху,final,0,adaptive_persp,marker_not_found,ArUco-маркер не найден или слишком мал,,False,32.612,length,,152.0,,
+photo_43.jpg,линейка,152.0,15.0,55,блики,светлый,сверху,final,0,adaptive_persp,marker_not_found,ArUco-маркер не найден или слишком мал,,False,32.612,width,,15.0,,
+photo_46.jpg,карта,85.6,54.0,55,хорошее,светлый,сверху,final,1,adaptive_persp,ok,,gray,True,2.227,length,72.094,85.6,13.506,15.778
+photo_46.jpg,карта,85.6,54.0,55,хорошее,светлый,сверху,final,1,adaptive_persp,ok,,gray,True,2.227,width,46.14,54.0,7.86,14.555
+photo_49.jpg,картон,130.0,90.0,55,хорошее,светлый,сверху,final,0,adaptive_persp,ok,,gray,True,2.661,length,95.234,130.0,34.766,26.743
+photo_49.jpg,картон,130.0,90.0,55,хорошее,светлый,сверху,final,0,adaptive_persp,ok,,gray,True,2.661,width,70.889,90.0,19.111,21.235
+photo_50.jpg,флешка,55.0,20.0,55,хорошее,светлый,сверху,final,0,adaptive_persp,ok,,gray,True,3.298,length,57.665,55.0,2.665,4.846
+photo_50.jpg,флешка,55.0,20.0,55,хорошее,светлый,сверху,final,0,adaptive_persp,ok,,gray,True,3.298,width,22.461,20.0,2.461,12.307
+photo_02.jpg,карта,85.6,54.0,48,хорошее,светлый,сверху,final,0,adaptive_noperspective,ok,,gray,True,11.087,length,66.041,85.6,19.559,22.849
+photo_02.jpg,карта,85.6,54.0,48,хорошее,светлый,сверху,final,0,adaptive_noperspective,ok,,gray,True,11.087,width,38.579,54.0,15.421,28.557
+photo_04.jpg,ручка,125.0,11.0,48,хорошее,светлый,сверху,final,0,adaptive_noperspective,ok,,colordist,True,1.583,length,110.149,125.0,14.851,11.881
+photo_04.jpg,ручка,125.0,11.0,48,хорошее,светлый,сверху,final,0,adaptive_noperspective,ok,,colordist,True,1.583,width,11.961,11.0,0.961,8.739
+photo_08.jpg,картон,130.0,90.0,55,хорошее,светлый,сверху,final,0,adaptive_noperspective,ok,,colordist,True,23.862,length,129.329,130.0,0.671,0.517
+photo_08.jpg,картон,130.0,90.0,55,хорошее,светлый,сверху,final,0,adaptive_noperspective,ok,,colordist,True,23.862,width,89.533,90.0,0.467,0.519
+photo_10.jpg,флешка,55.0,20.0,55,хорошее,светлый,сверху,final,0,adaptive_noperspective,ok,,gray,True,1.577,length,59.093,55.0,4.093,7.441
+photo_10.jpg,флешка,55.0,20.0,55,хорошее,светлый,сверху,final,0,adaptive_noperspective,ok,,gray,True,1.577,width,21.824,20.0,1.824,9.121
+photo_13.jpg,линейка,152.0,15.0,50,слабое,светлый,сверху,final,0,adaptive_noperspective,segmentation_failed,найденная область не похожа на предмет (рваная форма),,False,12.26,length,,152.0,,
+photo_13.jpg,линейка,152.0,15.0,50,слабое,светлый,сверху,final,0,adaptive_noperspective,segmentation_failed,найденная область не похожа на предмет (рваная форма),,False,12.26,width,,15.0,,
+photo_14.jpg,картон,130.0,90.0,55,слабое,светлый,сверху,final,0,adaptive_noperspective,ok,,colordist,True,21.244,length,126.237,130.0,3.763,2.894
+photo_14.jpg,картон,130.0,90.0,55,слабое,светлый,сверху,final,0,adaptive_noperspective,ok,,colordist,True,21.244,width,88.224,90.0,1.776,1.973
+photo_19.jpg,картон,130.0,90.0,55,тени,светлый,сверху,final,0,adaptive_noperspective,segmentation_failed,найденная область не похожа на предмет (рваная форма),,False,1.891,length,,130.0,,
+photo_19.jpg,картон,130.0,90.0,55,тени,светлый,сверху,final,0,adaptive_noperspective,segmentation_failed,найденная область не похожа на предмет (рваная форма),,False,1.891,width,,90.0,,
+photo_20.jpg,флешка,55.0,20.0,55,тени,светлый,сверху,final,0,adaptive_noperspective,ok,,gray,True,1.588,length,55.98,55.0,0.98,1.781
+photo_20.jpg,флешка,55.0,20.0,55,тени,светлый,сверху,final,0,adaptive_noperspective,ok,,gray,True,1.588,width,20.611,20.0,0.611,3.056
+photo_23.jpg,линейка,152.0,15.0,55,хорошее,тёмный,сверху,final,0,adaptive_noperspective,ok,,gray,True,1.574,length,150.096,152.0,1.904,1.252
+photo_23.jpg,линейка,152.0,15.0,55,хорошее,тёмный,сверху,final,0,adaptive_noperspective,ok,,gray,True,1.574,width,22.411,15.0,7.411,49.409
+photo_26.jpg,карта,85.6,54.0,55,хорошее,цветной,сверху,final,0,adaptive_noperspective,ok,,colordist,True,1.626,length,69.171,85.6,16.429,19.193
+photo_26.jpg,карта,85.6,54.0,55,хорошее,цветной,сверху,final,0,adaptive_noperspective,ok,,colordist,True,1.626,width,43.729,54.0,10.271,19.02
+photo_29.jpg,картон,130.0,90.0,55,хорошее,текстурированный,сверху,final,0,adaptive_noperspective,ok,,gray,True,1.671,length,16.574,130.0,113.426,87.251
+photo_29.jpg,картон,130.0,90.0,55,хорошее,текстурированный,сверху,final,0,adaptive_noperspective,ok,,gray,True,1.671,width,13.726,90.0,76.274,84.749
+photo_30.jpg,флешка,55.0,20.0,55,хорошее,текстурированный,сверху,final,0,adaptive_noperspective,ok,,saturation,True,1.478,length,52.24,55.0,2.76,5.017
+photo_30.jpg,флешка,55.0,20.0,55,хорошее,текстурированный,сверху,final,0,adaptive_noperspective,ok,,saturation,True,1.478,width,18.422,20.0,1.578,7.892
+photo_34.jpg,картон,130.0,90.0,55,хорошее,светлый,20,final,0,adaptive_noperspective,ok,,colordist,True,1.832,length,105.462,130.0,24.538,18.876
+photo_34.jpg,картон,130.0,90.0,55,хорошее,светлый,20,final,0,adaptive_noperspective,ok,,colordist,True,1.832,width,61.758,90.0,28.242,31.38
+photo_35.jpg,флешка,55.0,20.0,55,хорошее,светлый,20,final,0,adaptive_noperspective,ok,,gray,True,1.663,length,47.75,55.0,7.25,13.182
+photo_35.jpg,флешка,55.0,20.0,55,хорошее,светлый,20,final,0,adaptive_noperspective,ok,,gray,True,1.663,width,25.933,20.0,5.933,29.663
+photo_39.jpg,картон,130.0,90.0,55,хорошее,светлый,40,final,0,adaptive_noperspective,marker_not_found,ArUco-маркер не найден или слишком мал,,False,28.556,length,,130.0,,
+photo_39.jpg,картон,130.0,90.0,55,хорошее,светлый,40,final,0,adaptive_noperspective,marker_not_found,ArUco-маркер не найден или слишком мал,,False,28.556,width,,90.0,,
+photo_40.jpg,флешка,55.0,20.0,55,хорошее,светлый,40,final,0,adaptive_noperspective,marker_not_found,ArUco-маркер не найден или слишком мал,,False,28.31,length,,55.0,,
+photo_40.jpg,флешка,55.0,20.0,55,хорошее,светлый,40,final,0,adaptive_noperspective,marker_not_found,ArUco-маркер не найден или слишком мал,,False,28.31,width,,20.0,,
+photo_43.jpg,линейка,152.0,15.0,55,блики,светлый,сверху,final,0,adaptive_noperspective,marker_not_found,ArUco-маркер не найден или слишком мал,,False,32.644,length,,152.0,,
+photo_43.jpg,линейка,152.0,15.0,55,блики,светлый,сверху,final,0,adaptive_noperspective,marker_not_found,ArUco-маркер не найден или слишком мал,,False,32.644,width,,15.0,,
+photo_46.jpg,карта,85.6,54.0,55,хорошее,светлый,сверху,final,1,adaptive_noperspective,ok,,gray,True,1.573,length,73.465,85.6,12.135,14.176
+photo_46.jpg,карта,85.6,54.0,55,хорошее,светлый,сверху,final,1,adaptive_noperspective,ok,,gray,True,1.573,width,42.418,54.0,11.582,21.448
+photo_49.jpg,картон,130.0,90.0,55,хорошее,светлый,сверху,final,0,adaptive_noperspective,ok,,colordist,True,1.898,length,105.632,130.0,24.368,18.744
+photo_49.jpg,картон,130.0,90.0,55,хорошее,светлый,сверху,final,0,adaptive_noperspective,ok,,colordist,True,1.898,width,60.784,90.0,29.216,32.462
+photo_50.jpg,флешка,55.0,20.0,55,хорошее,светлый,сверху,final,0,adaptive_noperspective,ok,,gray,True,1.617,length,58.334,55.0,3.334,6.061
+photo_50.jpg,флешка,55.0,20.0,55,хорошее,светлый,сверху,final,0,adaptive_noperspective,ok,,gray,True,1.617,width,20.5,20.0,0.5,2.501
